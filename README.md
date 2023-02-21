@@ -1,6 +1,9 @@
 # Projeto_SitemaBiblioteca
 
- Projeto realizando com finalidade de exercitar o aprendizado em C# .NET FRAMEWORK
+ ◾ Projeto realizado com finalidade de exercitar o aprendizado em C# .NET FRAMEWORK, e
+ a instegração do banco de dados MySQL através do XAMPP, em base de demonstrar um sistemas de cadastro de sócio e cadastro de livros.
+
+ ◾ Assim que o sócio ou livro é cadastrado, o sistemas mostra todas as informações que foram preenchidas e armazenadas no MySQL nos Forms respectivos. 
 
 <h3>1° Frm_Apresentação 📸<h3>
 
